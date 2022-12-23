@@ -1,0 +1,12 @@
+/* syntax : .(dot operator)_className {property : value} */
+
+.main{
+color: blue;
+text-transform: uppercase;
+}
+.maintwo{
+color: pink
+}
+.mainthree{
+    color:aqua
+}
